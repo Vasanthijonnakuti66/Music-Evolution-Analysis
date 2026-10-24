@@ -1,0 +1,4 @@
+model,exact_accuracy,within_one_decade
+Logistic Regression,0.3391,
+Random Forest,0.4597,0.7698
+Random Forest (music only),0.4477,0.7652
